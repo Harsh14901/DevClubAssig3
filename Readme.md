@@ -10,4 +10,3 @@ Available Options:
 	>   author1 author2 ... authorN
 - Scrape random 3 comics just type random in input.txt
 - Scrape latest N comics type latest in input.txt
-
