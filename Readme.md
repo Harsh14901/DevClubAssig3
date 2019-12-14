@@ -6,7 +6,9 @@ Available Options:
 	
 
 	> start_month start_year
-	>  end_month end_year
-	>   author1 author2 ... authorN
+	>
+	> end_month end_year
+	>
+	> author1 author2 ... authorN
 - Scrape random 3 comics just type random in input.txt
 - Scrape latest N comics type latest in input.txt
